@@ -109,7 +109,7 @@ var deregister = function(client) {
 	clearInterval(ping);
 };
 
-var hello = function(){
+var my hello = function(){
 	console.log("caller-code says Hello!");
 };
 
