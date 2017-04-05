@@ -3,7 +3,6 @@
 // (client, PORT, NAME, TYPE, ENV) :: start_express_server(), deregister_express_server(), healthData => resources
 // -----
 
-/* jshint ignore:start */
 
 'use strict';
 
